@@ -13,7 +13,7 @@ readme.md
 
 | i# | `Tag` | Link |
 |----|----|----|
-| 0x000 | `release` | [link](https://n1x.site/0x7819_fff_btcp/0x000) |
-| 0x001 | `draft` | [link](https://n1x.site/0x7981_fff_btcp/0x001) |
-| 0x002 | `post` | [link](https://n1x.site/0x7981_fff_btcp/0x002) |
-| 0x003 | `final` | [link](https://n1x.site/0x7981_fff_btcp/0x003) |
+| 0x000 | `release` | [link](0x000) |
+| 0x001 | `draft` | [link](0x001) |
+| 0x002 | `post` | [link](0x002) |
+| 0x003 | `final` | [link](0x003) |
