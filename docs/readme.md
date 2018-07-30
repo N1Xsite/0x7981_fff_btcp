@@ -16,4 +16,5 @@ readme.md
 | 0x000 | `release` | [link](0x000.md) |
 | 0x001 | `draft` | [link](0x001.md) |
 | 0x002 | `post` | [link](0x002.md) |
-| 0x003 | `final` | [link](0x003.md) |
+| 0x003 | `pre-final` | [link](0x003.md) |
+| 0x004 | `final` | [link](0x004.md)
